@@ -27,7 +27,7 @@ public class RepeatedStrings {
         return occurance;
     }
 
-    public static int FasterSolution(int n,String s ) {
+    public static long FasterSolution(int n,String s ) {
         // Write your code here
         long occurance = 0;
         boolean done = false;
@@ -47,5 +47,6 @@ public class RepeatedStrings {
             }
         }
         occurance=(ocurInString*mul)+remCount;
+        return occurance;
     }
 }
