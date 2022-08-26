@@ -40,7 +40,6 @@ class Result {
 
         return valleys;
     }
-    }
 
 }
 
