@@ -9,7 +9,6 @@ public class CurrencyFormat {
         double payment = scanner.nextDouble();
         scanner.close();
 
-        // Write your code here.
         NumberFormat china = NumberFormat.getCurrencyInstance(new Locale("zh","CN"));
         NumberFormat us = NumberFormat.getCurrencyInstance(new Locale("en","US"));
         NumberFormat france = NumberFormat.getCurrencyInstance(new Locale("fr","FR"));
