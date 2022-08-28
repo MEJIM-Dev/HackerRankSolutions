@@ -1,6 +1,5 @@
 package JavaBasics;
 
-import javax.imageio.plugins.tiff.FaxTIFFTagSet;
 import java.util.*;
 
 public class UniqueNumbersInASet {
