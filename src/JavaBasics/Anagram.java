@@ -4,6 +4,7 @@ package JavaBasics;
 public class Anagram {
 
     static boolean isAnagram(String a, String b) {
+        // Complete the function
         java.util.Map<Character,Integer> map =
                 new java.util.HashMap<>();
         boolean ans = true;
@@ -28,4 +29,6 @@ public class Anagram {
         return ans;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {}
+
+}
