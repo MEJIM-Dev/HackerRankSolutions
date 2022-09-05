@@ -1,4 +1,4 @@
-package Algorithms.SolveMenext;
+package AlgorithmsWarmUpChallenges.SolveMenext;
 
 import java.io.*;
         import java.util.*;

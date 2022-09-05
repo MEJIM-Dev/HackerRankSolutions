@@ -1,4 +1,4 @@
-package WarmUpChallenges.RepeatedStrings;
+package InterviewWarmUpChallenges.RepeatedStrings;
 
 public class RepeatedStrings {
 

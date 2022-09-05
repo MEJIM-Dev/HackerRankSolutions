@@ -1,4 +1,4 @@
-package WarmUpChallenges.SocksMerchant;
+package InterviewWarmUpChallenges.SocksMerchant;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package Algorithms.SolveMeFirst;
+package AlgorithmsWarmUpChallenges.SolveMeFirst;
 
 import java.util.*;
 
